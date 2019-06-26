@@ -7,7 +7,6 @@
 #### 4- Flame sensor to warn the driver if there is a Flame
 #### 5- Vibration sensor to stop the car if it crashed
 #### 6- Line follower to track a black line on the ground
-#### 7- Measure distance using ultrasunic to stop the car if there is any obstcals
-#### the ultrasonic is placed on servo motor which can rotate 180 degree to scan wide arrea in front of the car
+#### 7- Measure distance using ultrasunic to stop the car if there is any obstcals the ultrasonic is placed on servo motor which can rotate 180 degree to scan wide arrea in front of the car
 #### 8- Infrared sensor under the front end of car which can measure the distant so the car stops when it is on the edge of the table or stairs
 
