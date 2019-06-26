@@ -1,7 +1,7 @@
 # Smart-RC-car
-Smart RC-car with 8 operations modes, using (Arduino)
-You can controll the car using mobile application to go (forward,backward, righ, or left)
-1- Reading temperature and printing it on LCD\n
+Smart RC-car with 8 operations modes, using (Arduino)\
+You can controll the car using mobile application to go (forward,backward, righ, or left)\
+1- Reading temperature and printing it on LCD
 2- Smoke sensor to warn the driver if there is a smoke
 3- LDR to controll the intinsity of the light of the car headlights
 4- Flame sensor to warn the driver if there is a Flame
